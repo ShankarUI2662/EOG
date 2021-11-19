@@ -21,4 +21,5 @@ Step 6: After navigating to the application, you can select different metric typ
 React v16.8, 
 Recharts, 
 React Hook, 
-react-redux
+react-redux,
+Service Worker
